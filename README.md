@@ -62,5 +62,3 @@ ECS | Lambda | ECR | Route53 | ALB | API Gateway | S3 | RDS | DynamoDB | IAM | E
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Stats
 
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexthecoder12&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alexthecoder12&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
